@@ -1,6 +1,6 @@
 💫 About Me:
 
-<h1 align="center"><a href="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" alt="illustrator" width="500" height="400"/></h1>
+<h1 align="center"><a href="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" alt="illustrator" width="400" height="350"/></h1>
 <h2 align="center">Hi 👋, I am Sneha Choudhary, a full stack web developer specialise in MERN stack and generative ai applications.
 Attendent School Of Information Technology RGPV, BHOPAL</h2>
 
