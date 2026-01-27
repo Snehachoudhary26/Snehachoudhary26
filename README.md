@@ -14,7 +14,7 @@ Attendent School Of Information Technology RGPV, BHOPAL</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/sneha-choudhary-7891812a0//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-choudhary-7891812a0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/sneha-choudhary-7891812a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-choudhary-7891812a0/" height="30" width="40" /></a>
 <a href="https://instagram.com/snehh_.a26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snehh_.a26" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@snehachoudhary2620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@snehachoudhary2620" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sneha_choudhary26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha_choudhary26" height="30" width="40" /></a>
