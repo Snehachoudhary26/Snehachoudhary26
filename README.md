@@ -35,7 +35,6 @@
 - 🔭 Currently building: AI-powered web apps & exploring **Solana Blockchain (Rust)**
 - 🧠 Learning: **Artificial Intelligence** and **Web3 Development**
 - 🏆 **500+ LeetCode problems** solved · Dynamic Programming specialist
-- 🌐 Collaborated with **10+ developers** across **3+ open-source projects**
 - 📍 Based in Jabalpur, Madhya Pradesh, India
 
 ---
@@ -53,33 +52,6 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔍 [Campus Tracker – Smart Lost & Found System](https://github.com/Snehachoudhary26)
-> HTML5 · CSS3 · JavaScript · AI/ML · Docker
-
-- AI-powered web platform for reporting and recovering lost items with image uploads & location tracking
-- Text + image similarity algorithm improving item recovery accuracy by **25%**
-- Secure in-app chat with masked contacts · Admin panel reducing false reports by **30%**
-
----
-
-### ☁️ [Kolaba Cloud – Manufacturing AI & Cloud Landing Page](https://github.com/Snehachoudhary26)
-> HTML5 · CSS3 · JavaScript
-
-- Responsive landing page showcasing AI & cloud solutions for manufacturing industry
-- Interactive bar, pie & line charts visualizing performance metrics and case studies
-- Optimized SEO, accessibility & mobile layouts — improved load speed by **30%**
-
----
-
-### 🅿️ [EasyPark – Intelligent Parking Management System](https://github.com/Snehachoudhary26)
-> React · Node.js · Express · MongoDB · JWT
-
-- Full-stack parking platform with JWT auth, real-time booking & user management
-- Location-based parking search, CRUD operations & dynamic cost calculation
-- Interactive maps, booking modals & community-driven spot sharing
 
 ---
 
