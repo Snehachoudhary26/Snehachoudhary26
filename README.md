@@ -88,19 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehachoudhary26&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehachoudhary26&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Snehachoudhary26&theme=default&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Achievements & Badges
 
 | 🥇 Achievement | Details |
