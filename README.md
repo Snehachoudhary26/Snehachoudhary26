@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Sneha Choudhary 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · Competitive Programmer · Open Source Contributor</b><br/>
+  <b>Full Stack Developer · Competitive Programmer </b><br/>
   B.Tech CSE (Data Science) @ SOIT RGPV Bhopal · 
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Sneha_262020/">
+  <a href="https://codeforces.com/profile/Sneha_262020">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/sneha_choudhary26/">
